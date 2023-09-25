@@ -55,7 +55,8 @@ TypeScript classes encompass several key concepts that make them a powerful tool
 [These concepts are central to working with classes in TypeScript and enable you to create organized and maintainable code structures while leveraging object-oriented principles like encapsulation, inheritance, and polymorphism. Understanding these concepts is key to effectively using classes in TypeScript.]
 
 
-[TYPESCRIPT DOCS]:
+[TYPESCRIPT DOCS](https://www.typescriptlang.org/docs/)
+
 
 #Getters and Setters (accessors);
 
