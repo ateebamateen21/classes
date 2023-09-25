@@ -56,6 +56,8 @@ TypeScript classes encompass several key concepts that make them a powerful tool
 
 
 [TYPESCRIPT DOCS](https://www.typescriptlang.org/docs/)
+
+
 <a href="https://www.openai.com/" target="_blank">Visit OpenAI's website</a>
 
 
